@@ -1,0 +1,14 @@
+# Compiled binaries
+/Tnotes
+/tnotes
+/bin/
+*.exe
+
+# Go test and coverage artifacts
+*.test
+*.out
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
